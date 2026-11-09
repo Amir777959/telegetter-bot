@@ -1,0 +1,5 @@
+# بستهٔ سرور ClawCloud Run — حداقل و سبک
+telethon>=1.34.0,<2
+
+# برای پروکسی SOCKS5/HTTP اگر لازم شد (روی ClawCloud لازم نیست)
+python-socks[asyncio]>=2.0
